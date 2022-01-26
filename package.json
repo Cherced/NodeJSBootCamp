@@ -1,0 +1,14 @@
+{
+  "name": "master",
+  "version": "1.0.0",
+  "description": "hi guys, on this repo, we will have an idea to how javascript can be use outside to the backend on v8 engine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
