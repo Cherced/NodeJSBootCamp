@@ -1,0 +1,7 @@
+paquetes utiles para trabajar con  proyectos
+
+1 bcrypt, sirve para manejar cifrados paswrods y demas validaciones y hash alas paswrods
+
+2 moment: es para trabajar con fechas, las base de js, no son muy buenas.
+
+3 sharp : esta es para manejar imagenes, para traerlas 
